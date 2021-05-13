@@ -11,4 +11,4 @@ python3 ./run_ner.py \
 	--max_seq_length 128 \
 	--overwrite_output_dir \
 	--overwrite_cache \
-	--method selftrain \
+	#--method selftrain \
